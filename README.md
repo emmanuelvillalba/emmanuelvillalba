@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **emasv23@gmail.com**
 
-- 📄 Know about my experiences Teacher Assistant in Henry Bootca
+- 📄 Know about my experiences Teacher Assistant in Henry Bootcamp
 
 - 📝Background: Physical Education Teacher, Personal Training, Bodybuilding Instructor.
 
