@@ -19,9 +19,9 @@
 
 - 📄 Know about my experiences Teacher Assistant in Henry Bootcamp
 
-- 📝Background: Physical Education Teacher, Personal Training, Bodybuilding Instructor.
+- 📝Background: Physical Education Teacher, Personal Training, Bodybuilding Instructor, DT Handball.
 
-- 📄 Soft Skills: Análisis y resolución de problemas, aprendizaje ágil, colaboración y trabajo en equipo, comunicación eficaz, planificación y organización
+- 📄 Soft Skills: Analysis and problem solving, agile learning, collaboration and teamwork, effective communication, planning and organization.
   
 - ⚡ Fun fact **🏌🏿 I am playing Golf ⛳**
 
