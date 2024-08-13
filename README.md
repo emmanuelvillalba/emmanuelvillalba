@@ -46,13 +46,13 @@
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools
 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" alt="postgresql" width="60" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" alt="mongodb" width="60" height="40"/> </a> 
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sequelize-52B0E7.svg?logo=sequelize&logoColor=white" alt="sequelize" width="60" height="40"/> </a> 
-<a href="https://typeorm.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeORM-FF5733.svg?logo=typeorm&logoColor=white" alt="typeorm" width="60" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" alt="docker" width="60" height="40"/> </a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" alt="postman" width="60" height="40"/> </a> 
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Trello-0079BF.svg?logo=trello&logoColor=white" alt="trello" width="60" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" alt="postgresql" width="80" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" alt="mongodb" width="80" height="40"/> </a> 
+<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sequelize-52B0E7.svg?logo=sequelize&logoColor=white" alt="sequelize" width="80" height="40"/> </a> 
+<a href="https://typeorm.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeORM-FF5733.svg?logo=typeorm&logoColor=white" alt="typeorm" width="80" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" alt="docker" width="80" height="40"/> </a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" alt="postman" width="80" height="40"/> </a> 
+<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Trello-0079BF.svg?logo=trello&logoColor=white" alt="trello" width="80" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="github" width="40" height="40"/> </a> 
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/3o6Zt62PeJeFUDwBUI/giphy.gif" alt="insomnia" width="40" height="40"/> </a>
